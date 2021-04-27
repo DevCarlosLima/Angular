@@ -6,7 +6,7 @@ Treinamento: Angular 9
 ### Teoria
 - [x] Conhecendo o básido da estrutura de um projeto Angular
 - [x] 3 Coisas que mais lidamos no Angular
----
+
 ### Praticando
 - [x] Criando de interfaces
 - [x] Criando de componentes
@@ -15,13 +15,13 @@ Treinamento: Angular 9
 - [x] Criando módulos
 - [x] Criando módulo para roteirazação de componentes
     - [x] Implementando de _lazy loading_
----
+
 ### Snippets
 ```
 ng g m <nome do módulo>     // Gerar um módulo
 ng g c <nome do componente> // Gerar um componente
 ```
----
+
 
 ## [0.0.1] - 22/04/2021 ✔️
 
@@ -29,12 +29,12 @@ ng g c <nome do componente> // Gerar um componente
 - [x] O que é Angular?
 - [x] Sua principais características
 - [x] Configurando setup
----
+
 ### Programas necessários
 - 1 - [Node.js](https://nodejs.org/en/)
 - 2 - [Visual Studio Code](https://code.visualstudio.com/download)
 - 3 - [Angular CLI](https://angular.io/cli) 
----
+
 ### Snippets
 ```
 // Instalação global do Angular CLI
